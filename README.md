@@ -10,4 +10,4 @@ OAuth web application implemented using MAVEN for OAuth
 
 4. Then deploy the built application to server like Apache Tomcat. Then deploy the build application in tomcat server by pasting .war file inside webapps of tomcat.
 
-5. find your application in the browser.
+5. Find your application in the browser.
