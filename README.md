@@ -1,7 +1,7 @@
 # OAuth_Facebook
 OAuth web application implemented using MAVEN for OAuth
 
-Procedures
+## Procedures
 1. Download or clone the project Above.
 
 2. Insert Your App ID and APP SECRET to the cloned application(FBConnection.java) using your Facebook App you have created using developers.facebook.
